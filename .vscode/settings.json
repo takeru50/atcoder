@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "all": "cpp",
+        "lazysegtree": "cpp",
+        "fenwicktree": "cpp"
+    },
+    "C_Cpp.default.includePath": [
+        "/home/takeru/ac-library"
+    ]
+}
